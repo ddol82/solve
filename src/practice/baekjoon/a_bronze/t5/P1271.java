@@ -4,8 +4,8 @@ import java.math.BigInteger;
 import java.util.Scanner;
 
 /**
- * BOJ 1271 - https://www.acmicpc.net/problem/1271
- * Date: 2026-04-08
+ * BOJ 1271
+ * Date: 2026-04-08 ~ 2026-04-08
  */
 public class P1271 {
     public static void main(String[] args) {
