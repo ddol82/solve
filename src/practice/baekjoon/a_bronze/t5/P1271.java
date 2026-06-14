@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import java.util.Scanner;
 
 /**
- * BOJ 1271
+ * BOJ 1271 : 랜덤 마라톤 97
  * Date: 2026-04-08 ~ 2026-04-08
  */
 public class P1271 {
